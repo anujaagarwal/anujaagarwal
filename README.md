@@ -10,6 +10,6 @@ I've been learning coding since 3 years. After switching my first job as a Backe
 * ✉️  You can contact me at [anujaagarwal08@gmail.com](mailto:anujaagarwal08@gmail.com)
 * 🚀  I'm currently working on [AI Powered Process Builder Application](http://github.com/anujaagarwal/AI-Powered-Process-Builder)
 * 🧠  I'm learning ExpressJS, React
-* 🤝  I'm open to collaborating on Agentic AI and Gen AI Projects
+* 🤝  I'm open to collaborating on Agentic AI, Gen AI projects and building custom MCP servers.
 * ⚡  I'm secretly a WonderWoman
 
