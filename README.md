@@ -8,7 +8,7 @@ FullStack Developer | AI Engineer
 
 * 🌍  Hailing from the vibrant Bengaluru, Karnataka, India — where tech dreams meet filter coffee dreams.
 * ✉️  Want to connect? Drop a line at [anujaagarwal08@gmail.com](mailto:anujaagarwal08@gmail.com)
-* 🧠  Brewing up LumifAI — it’s like AI, but with more sparkle.
+* 🧠  Brewing up Lumif-ai — it’s like AI, but with more sparkle.
 * 🤝  Always up for collabs on Agentic AI, Gen AI projects, and crafting custom MCP servers (No, that’s not a secret code… or is it?).
 * ⚡  And by the way — I’m secretly WonderWoman. Just saying. 🦸‍♀️
 
