@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anuja Agarwal
 =====================================================================================================================================
 
-FullStack Developer | AI Engineer
+Applied AI Engineer | FullStack Developer
 ---------------------------------
 
 🔥 Been coding for 5 years — some say I’ve turned coffee into code! Documented my epic journey from Fullstack wizardry to AI sorcery in my repositories.
