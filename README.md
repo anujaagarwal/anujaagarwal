@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer | AI Engineer
 ---------------------------------
 
-I've been learning coding since 5 years. I have documented my journey from Fullstack Engineer to AI Engineer in the form of repositories.
+🔥 Been coding for 5 years — some say I’ve turned coffee into code! Documented my epic journey from Fullstack wizardry to AI sorcery in my repositories.
 
-* 🌍  I'm based in Bengaluru, Karnataka, India
-* ✉️  You can contact me at [anujaagarwal08@gmail.com](mailto:anujaagarwal08@gmail.com)
-* 🚀  I'm currently working on ServerLess Workflows.
-* 🧠  I'm building LumifAI
-* 🤝  I'm open to collaborating on Agentic AI, Gen AI projects and building custom MCP servers.
-* ⚡  I'm secretly a WonderWoman
+* 🌍  Hailing from the vibrant Bengaluru, Karnataka, India — where tech dreams meet filter coffee dreams.
+* ✉️  Want to connect? Drop a line at [anujaagarwal08@gmail.com](mailto:anujaagarwal08@gmail.com)
+* 🧠  Brewing up LumifAI — it’s like AI, but with more sparkle.
+* 🤝  Always up for collabs on Agentic AI, Gen AI projects, and crafting custom MCP servers (No, that’s not a secret code… or is it?).
+* ⚡  And by the way — I’m secretly WonderWoman. Just saying. 🦸‍♀️
+
+P.S. No capes required (but always welcome)!  
 
